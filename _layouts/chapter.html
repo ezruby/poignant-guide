@@ -14,7 +14,7 @@ layout: book
 <div id="container">
   <div class="page">
     <div class="pageLinks">
-      <a class="pagebar" href="./">Contents</a>
+      <a class="pagebar" href="./">目录</a>
     </div>
     <div class="pageTitle">
       <h3>{{ page.date | date: "%-d" }}.</h3>
@@ -28,7 +28,7 @@ layout: book
       {{ content }}
 
       <p style="text-align:right;">
-      <a href="{% if page.next %}{{ page.next.url | remove_first:"/book/" }}{% else %}./{% endif %}">Turn page.</a>
+      <a href="{% if page.next %}{{ page.next.url | remove_first:"/book/" }}{% else %}./{% endif %}">翻页</a>
       </p>
     </div>
   </div>
