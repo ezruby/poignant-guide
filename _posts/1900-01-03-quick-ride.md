@@ -1,12 +1,12 @@
 ---
-title: "A Quick (and Hopefully Painless) Ride Through Ruby (with Cartoon Foxes)"
+title: "通览（但愿无痛）Ruby（卡通狐狸伴随）"
 permalink: book/chapter-3.html
 layout: chapter
 sections:
 - - section1
-  - Language and I MEAN Language
+  - 语言与我理解的语言
 - - section2
-  - The Parts of Speech
+  - 发音部分
 - - section3
   - If I Haven't Treated You Like a Child Enough Already
 - - section4

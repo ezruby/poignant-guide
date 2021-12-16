@@ -4,13 +4,13 @@ permalink: book/chapter-2.html
 layout: chapter
 sections:
 - - section1
-  - Opening This Book
+  - 打开此书
 - - section2
-  - The Dog Story
+  - 狗狗的故事
 - - section3
-  - The Red Sun Rises
+  - 红日初升
 - - section4
-  - How Books Start
+  - 如何开始阅读
 ---
 
 <a name="section1"></a>
