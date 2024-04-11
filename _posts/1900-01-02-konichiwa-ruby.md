@@ -1,5 +1,5 @@
 ---
-title: "Kon’nichi wa, Ruby"
+title: "孔尼西洼，Ruby"
 permalink: book/chapter-2.html
 layout: chapter
 sections:
@@ -15,7 +15,7 @@ sections:
 
 <a name="section1"></a>
 
-## 1. Opening This Book
+## 1. 翻开此书
 
 Pretend that you’ve opened this book (although you probably _have_ opened this
 book), just to find a huge onion right in the middle crease of the book. (The
